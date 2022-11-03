@@ -14,5 +14,9 @@ const arr1 = [12, 23, 12, 54];
 arr1.push(45);
 console.log(arr1);
 
+// most common programming case type
 
-most common programming case type
+// 1 camalCase -
+// 2 kebab-case
+// 3 snack_case
+// 4 pascalCase
